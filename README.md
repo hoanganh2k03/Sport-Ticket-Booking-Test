@@ -1,28 +1,51 @@
-1. Project Information
+<h1 align="center">Test Sport Ticket Booking Website</h1>
 
-Project Name: Test Sport Ticket Booking Website
+## Project Information
 
-Frontend Repository:
-https://github.com/hoanganh2k03/ticket-booking-fe
+**Project Name:** Test Sport Ticket Booking Website  
 
-Backend Repository:
-https://github.com/hoanganh2k03/ticket-booking-be
+**Frontend Repository:**  
+https://github.com/hoanganh2k03/ticket-booking-fe  
 
-Description:
+**Backend Repository:**  
+https://github.com/hoanganh2k03/ticket-booking-be  
+
+**Description:**  
 The system allows users to browse sport events, book tickets, and manage bookings online.
-1. Test Plan
-Verify that the Sport Ticket Booking website works correctly and meets functional requirements
-Scope
-Event Listing
-Personal Information Management
-Ticket Booking
-Booking Management
-Test Environment
-Component	Technology
-Frontend	ReactJS
-Backend	NodeJS / Express
-Database	MySQL
-Automation	Playwright
-API Test	Postman
-2. Test Types
-   Functional Testing,API Testing,SQL Testing, UI Testing,Automation UI test(Playwright)
+
+---
+
+## Test Plan
+
+Verify that the Sport Ticket Booking website works correctly and meets functional requirements.
+
+---
+
+## Scope
+
+- Event Listing  
+- Personal Information Management  
+- Ticket Booking  
+- Booking Management  
+
+---
+
+## Test Environment
+
+| Component | Technology |
+|:---|:---|
+| Frontend | ReactJS |
+| Backend | NodeJS / Express |
+| Database | MySQL |
+| Automation | Playwright |
+| API Test | Postman |
+
+---
+
+## Test Types
+
+- Functional Testing  
+- API Testing  
+- SQL Testing  
+- UI Testing  
+- Automation UI Testing (Playwright)
