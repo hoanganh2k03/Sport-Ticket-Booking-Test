@@ -34,8 +34,8 @@ Verify that the Sport Ticket Booking website works correctly and meets functiona
 
 | Component | Technology |
 |:---|:---|
-| Frontend | ReactJS |
-| Backend | NodeJS / Express |
+| Frontend | HTML,CSS,JS |
+| Backend | Python/Django |
 | Database | MySQL |
 | Automation | Playwright |
 | API Test | Postman |
